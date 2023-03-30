@@ -39,8 +39,6 @@ resource "aws_instance" "web2" {
 
 
 
-Message dec_devops_2022
-
 
 
 
